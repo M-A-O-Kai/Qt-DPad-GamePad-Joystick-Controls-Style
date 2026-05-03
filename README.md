@@ -1,1 +1,1 @@
-The prokject is in the 'gopp' folder. The other folder was for plain-testing some funtionalities.
+The project is in the 'gopp' folder. The other folder was for plain-testing some funtionalities.
